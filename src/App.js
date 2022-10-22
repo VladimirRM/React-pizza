@@ -1,5 +1,5 @@
 
-import './index.scss';
+import './scss/';
 
 function App() {
   return (

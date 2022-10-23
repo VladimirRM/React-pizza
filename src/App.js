@@ -2,6 +2,10 @@
 import './scss/';
 import logoSvg from './assets/img/pizza-logo.svg'
 
+
+function Button (){
+  return
+}
 function App() {
   return (
     <div classNameName="App">

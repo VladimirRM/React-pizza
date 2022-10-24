@@ -1,7 +1,6 @@
-
-import './scss/';
-import logoSvg from './assets/img/pizza-logo.svg'
-
+import React from 'react';
+import Header from './Header'
+import './scss/app.scss';
 
 function Button (){
   return <button>Hello</button>

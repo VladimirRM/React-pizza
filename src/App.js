@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './Header'
 import './scss/app.scss';
+import Button from './Button';
 
 function Button (){
   return <button>Hello</button>
